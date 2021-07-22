@@ -1,7 +1,12 @@
 # GaniKali
 GaniKali is a basic movie recommender system. You might be asking, why the name GaniKali? GaniKali is a famous swahili question usually asked after people are bored searching for a good movie to watch(usually after they've spent half an hr going through trailers) and all they're left to do, is holla(call) a friend and ask, "mamacita, movie gani kali kuwatch?" translating, "which movie is dope to watch?"
 
-The dataset used describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100004 ratings and 1296 tag applications across 9125 movies created by 671 users between ~~January 09, 1995 and October 16, 2016 and later generated on October 17, 2016~~ March 29, 1996 and September 24, 2018.
+The dataset used describes 5-star rating and free-text tagging activity from [MovieLens](http://movielens.org), a movie recommendation service. It contains 100004 ratings and 1296 tag applications across 9125 movies created by 671 users between ~~January 09, 1995 and October 16, 2016~~ March 29, 1996 and September 24, 2018.
+
+## Sample Rec From Our RecSys:
+![resultSample](https://user-images.githubusercontent.com/30528167/126356921-861272df-a471-4c64-b6f1-ad3864be00b2.PNG)
+
+## Bonus:
 
 ## What is a Recommender System?
 A recommender system / recommendation system(RecSys), is a subclass of information filtering system that seeks to predict the "rating" or "preference" a user would give to an item. (source [Wikipedia](https//en.wikipedia.org/wiki/Recommender_system))
@@ -34,6 +39,3 @@ Google-Youtube:
 - Hybrid Recommendation Systems
 - DL based systems
 - Social Network Recommendations
-
-## Sample Rec From Our RecSys:
-![resultSample](https://user-images.githubusercontent.com/30528167/126356921-861272df-a471-4c64-b6f1-ad3864be00b2.PNG)
